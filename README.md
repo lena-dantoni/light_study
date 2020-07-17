@@ -1,7 +1,7 @@
 # Light Study
 
 ### Description of the project
-The study of natural light in a typical office thanks to different factors usually used in the building industry for certifications, labels, etc.
+This is the study of natural light in a typical office thanks to different factors usually used in the building industry for certifications, labels, etc. The main factors studied are daylight factor (DF) and daylight autonomy (DLA). I am using Rhino with Ladybug and Honeybee for the daylight simulations.
 
 ### Parameters
 - Occupancy : 8am to 6pm 5 days a week
@@ -24,12 +24,6 @@ The study of natural light in a typical office thanks to different factors usual
      - External floor = 0.3
 - Transmission coefficient :
      - Glazing = 0.7
-     
----
-
-### Study
-
-Using Rhino with Ladybug and Honeybee for the daylight simulations.
 
 <img src="Rhino Files/photos/office exemple 1.PNG" height="200"/>
 
@@ -43,4 +37,4 @@ Linkedin : <a href="http://www.linkedin.com/in/lenad-antoni">:bowtie:</a>
 ---
 
 ### Acknowledgment
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Reseau_Polytech.svg" height="150" title="Logo Polytech Annecy-Chambéry" alt="Logo Polytech Annecy-Chambéry"> <img src="https://pbs.twimg.com/media/Dd5jLDXUQAEaQIl.jpg" height="150" title="Logo Arp-Astrnance" alt="Logo Arp-Astrnance">
+<a href="https://www.polytech.univ-smb.fr/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Reseau_Polytech.svg" height="150" title="Logo Polytech Annecy-Chambéry" alt="Logo Polytech Annecy-Chambéry"></a> <a href="https://www.arp-astrance.com/"><img src="https://pbs.twimg.com/media/Dd5jLDXUQAEaQIl.jpg" height="150" title="Logo Arp-Astrnance" alt="Logo Arp-Astrnance"></a>
