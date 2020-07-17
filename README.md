@@ -31,7 +31,7 @@ The study of natural light in a typical office thanks to different factors usual
 
 Using Rhino with Ladybug and Honeybee for the daylight simulations.
 
-<img src="https://zupimages.net/up/20/29/mxkk.png" height="200" alt="Office Rhino Modelisation" />
+<img src="Rhino Files/photos/office exemple 1.PNG" height="200"/>
 
 ---
 
