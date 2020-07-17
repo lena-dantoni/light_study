@@ -36,7 +36,7 @@ Using Rhino with Ladybug and Honeybee for the daylight simulations.
 ---
 
 ### About me
-4th-year student at the engineer school Polytech Annecy-Chambéry in France, I am interning at the company Arp-Astrance based in Paris. 
+I am a 4th-year student at the engineer school Polytech Annecy-Chambéry in France studying energy, building and environment. I am interning at the company Arp-Astrance based in Paris.
 
 Linkedin : <a href="http://www.linkedin.com/in/lenad-antoni">:bowtie:</a>
 
