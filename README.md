@@ -1,7 +1,7 @@
 # Light Study
 
 ### Description of the project
-This is the study of natural light in a typical office thanks to different factors usually used in the building industry for certifications, labels, etc. The main factors studied are daylight factor (DF) and daylight autonomy (DLA). I am using Rhino with Ladybug and Honeybee for the daylight simulations.
+This tudy shows the impact of natural light in a typical office thanks to different factors usually used in the building industry for certifications, labels, etc. The main factors studied here are daylight factor (DF) and daylight autonomy (DLA). I am using Rhino and Grasshopper for the daylight simulations.
 
 <img src="Rhino Files/photos/office exemple 1.PNG" height="200"/>
 
@@ -36,7 +36,7 @@ This is the study of natural light in a typical office thanks to different facto
 ### About me
 I am a 4th-year student at the engineer school Polytech Annecy-Chambéry in France studying energy, building and environment. I am interning at the company Arp-Astrance based in Paris.
 
-Linkedin : <a href="http://www.linkedin.com/in/lenad-antoni">:bowtie:</a>
+<a href="http://www.linkedin.com/in/lenad-antoni">:bowtie:</a>
 
 ---
 
