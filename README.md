@@ -27,6 +27,10 @@ This is the study of natural light in a typical office thanks to different facto
 
 <img src="Rhino Files/photos/office exemple 1.PNG" height="200"/>
 
+### Softwares
+
+<img src="https://www.mav-npdc.com/wp-content/uploads/2019/03/rhinoceros-5-cad-software.jpg" height="150" title="Logo Rhino" alt="Logo Rhino"> <img src="https://seeklogo.com/images/G/grasshopper-3d-logo-B55A18550D-seeklogo.com.png" height="150" title="Logo Grasshopper" alt="Logo Grasshopper"> <img src="https://www.ladybug.tools/assets/img/logo.png" height="150" title="Logo Ladybug" alt="Logo Ladybug"> <img src="https://www.ladybug.tools/assets/img/honeybee-large.png" height="150" title="Logo Honeybee" alt="Logo Honeybee">
+
 ---
 
 ### About me
@@ -37,4 +41,4 @@ Linkedin : <a href="http://www.linkedin.com/in/lenad-antoni">:bowtie:</a>
 ---
 
 ### Acknowledgment
-<a href="https://www.polytech.univ-smb.fr/"><img src="https://www.usinenouvelle.com/mediatheque/4/9/5/000625594_image_600x315.png" height="150" title="Logo Polytech Annecy-Chambéry" alt="Logo Polytech Annecy-Chambéry"></a> <a href="https://www.arp-astrance.com/"><img src="https://pbs.twimg.com/media/Dd5jLDXUQAEaQIl.jpg" height="150" title="Logo Arp-Astrnance" alt="Logo Arp-Astrnance"></a> <a href="https://www.rhino3d.com/fr/"><img src="https://www.mav-npdc.com/wp-content/uploads/2019/03/rhinoceros-5-cad-software.jpg" height="150" title="Logo Arp-Astrnance" alt="Logo Arp-Astrnance"></a>
+<a href="https://www.polytech.univ-smb.fr/"><img src="https://www.usinenouvelle.com/mediatheque/4/9/5/000625594_image_600x315.png" height="150" title="Logo Polytech Annecy-Chambéry" alt="Logo Polytech Annecy-Chambéry"></a> <a href="https://www.arp-astrance.com/"><img src="https://pbs.twimg.com/media/Dd5jLDXUQAEaQIl.jpg" height="150" title="Logo Arp-Astrnance" alt="Logo Arp-Astrnance"></a> 
