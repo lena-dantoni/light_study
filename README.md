@@ -24,6 +24,14 @@ The study of natural light in a typical office thanks to different factors usual
      - External floor = 0.3
 - Transmission coefficient :
      - Glazing = 0.7
+     
+---
+
+### Study
+
+Using Rhino with Ladybug and Honeybee for the daylight simulations.
+
+<img src="https://zupimages.net/up/20/29/mxkk.png" height="200" alt="Office Rhino Modelisation" />
 
 ---
 
@@ -34,4 +42,5 @@ Linkedin : <a href="http://www.linkedin.com/in/lenad-antoni">:bowtie:</a>
 
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Reseau_Polytech.svg" height="150" title="Logo Polytech Annecy-Chambéry" alt="Logo Polytech Annecy-Chambéry"> <img src="https://pbs.twimg.com/media/Dd5jLDXUQAEaQIl.jpg" height="150" title="Logo Arp-Astrnance" alt="Logo Arp-Astrnance"> 
+### Acknowledgment
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Reseau_Polytech.svg" height="150" title="Logo Polytech Annecy-Chambéry" alt="Logo Polytech Annecy-Chambéry"> <img src="https://pbs.twimg.com/media/Dd5jLDXUQAEaQIl.jpg" height="150" title="Logo Arp-Astrnance" alt="Logo Arp-Astrnance">
