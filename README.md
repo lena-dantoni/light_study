@@ -3,6 +3,8 @@
 ### Description of the project
 This is the study of natural light in a typical office thanks to different factors usually used in the building industry for certifications, labels, etc. The main factors studied are daylight factor (DF) and daylight autonomy (DLA). I am using Rhino with Ladybug and Honeybee for the daylight simulations.
 
+<img src="Rhino Files/photos/office exemple 1.PNG" height="200"/>
+
 ### Parameters
 - Occupancy : 8am to 6pm 5 days a week
 - Location : Paris (weather file : Paris Orly)
@@ -25,11 +27,9 @@ This is the study of natural light in a typical office thanks to different facto
 - Transmission coefficient :
      - Glazing = 0.7
 
-<img src="Rhino Files/photos/office exemple 1.PNG" height="200"/>
-
 ### Softwares
 
-<img src="https://www.mav-npdc.com/wp-content/uploads/2019/03/rhinoceros-5-cad-software.jpg" height="150" title="Logo Rhino" alt="Logo Rhino"> <img src="https://seeklogo.com/images/G/grasshopper-3d-logo-B55A18550D-seeklogo.com.png" height="150" title="Logo Grasshopper" alt="Logo Grasshopper"> <img src="https://www.ladybug.tools/assets/img/logo.png" height="150" title="Logo Ladybug" alt="Logo Ladybug"> <img src="https://www.ladybug.tools/assets/img/honeybee-large.png" height="150" title="Logo Honeybee" alt="Logo Honeybee">
+<img src="https://www.mav-npdc.com/wp-content/uploads/2019/03/rhinoceros-5-cad-software.jpg" height="75" title="Logo Rhino" alt="Logo Rhino"> <img src="https://seeklogo.com/images/G/grasshopper-3d-logo-B55A18550D-seeklogo.com.png" height="75" title="Logo Grasshopper" alt="Logo Grasshopper"> <img src="https://www.ladybug.tools/assets/img/logo.png" height="75" title="Logo Ladybug" alt="Logo Ladybug"> <img src="https://www.ladybug.tools/assets/img/honeybee-large.png" height="75" title="Logo Honeybee" alt="Logo Honeybee">
 
 ---
 
