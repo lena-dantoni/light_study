@@ -37,4 +37,4 @@ Linkedin : <a href="http://www.linkedin.com/in/lenad-antoni">:bowtie:</a>
 ---
 
 ### Acknowledgment
-<a href="https://www.polytech.univ-smb.fr/"><img src="https://www.usinenouvelle.com/mediatheque/4/9/5/000625594_image_600x315.png" height="150" title="Logo Polytech Annecy-Chambéry" alt="Logo Polytech Annecy-Chambéry"></a> <a href="https://www.arp-astrance.com/"><img src="https://pbs.twimg.com/media/Dd5jLDXUQAEaQIl.jpg" height="150" title="Logo Arp-Astrnance" alt="Logo Arp-Astrnance"></a>
+<a href="https://www.polytech.univ-smb.fr/"><img src="https://www.usinenouvelle.com/mediatheque/4/9/5/000625594_image_600x315.png" height="150" title="Logo Polytech Annecy-Chambéry" alt="Logo Polytech Annecy-Chambéry"></a> <a href="https://www.arp-astrance.com/"><img src="https://pbs.twimg.com/media/Dd5jLDXUQAEaQIl.jpg" height="150" title="Logo Arp-Astrnance" alt="Logo Arp-Astrnance"></a> <a href="https://www.rhino3d.com/fr/"><img src="https://img.favpng.com/6/6/20/rhinoceros-3d-computer-icons-rhino-rhino-png-favpng-8dGQST3N0ehTfNDTNdxCy3xze.jpg" height="150" title="Logo Arp-Astrnance" alt="Logo Arp-Astrnance"></a>
