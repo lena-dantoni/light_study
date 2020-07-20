@@ -1,3 +1,19 @@
+### Results visualization with design explorer
+
+Average DLA :
+
+Average DF :
+
+DF > 1.5
+
+%surface such as DLA > 30 : 
+
+%surface such as DLA > 40 :
+
+%surface such as DLA > 50 :
+
+%surface such as DLA > Average DLA :
+
 ### Files used for the daylight simulation
 
 Dayligh_Simulation : The grasshopper file I use to simulate my daylight analysis.
