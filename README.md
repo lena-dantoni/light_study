@@ -29,6 +29,16 @@ This study shows the impact of natural light in a typical office thanks to diffe
 - Transmission coefficient :
      - Glazing = 0.7
 
+### Exemple
+
+Evolution of the average DLA as a function of the percentage of glazing : 
+
+<img src="Rhino%20Files/photos/Evolution%20ALJ%20%25surface%20vitr%C3%A9e.gif" height="300"/>
+
+Visualization wit Design Explorer :
+
+<img src="Rhino%20Files/photos/visualisation%20design%20explorer.PNG" height="200"/>
+
 ### Softwares
 
 <img src="https://www.mav-npdc.com/wp-content/uploads/2019/03/rhinoceros-5-cad-software.jpg" height="75" title="Logo Rhino" alt="Logo Rhino"> <img src="https://seeklogo.com/images/G/grasshopper-3d-logo-B55A18550D-seeklogo.com.png" height="75" title="Logo Grasshopper" alt="Logo Grasshopper"> <img src="https://www.ladybug.tools/assets/img/logo.png" height="75" title="Logo Ladybug" alt="Logo Ladybug"> <img src="https://www.ladybug.tools/assets/img/honeybee-large.png" height="75" title="Logo Honeybee" alt="Logo Honeybee"> <img src="https://static.food4rhino.com/s3fs-public/users-files/core-studio/app/tttoolboxlarge0.jpg" height="75" title="Logo TT Toolbox" alt="Logo TT Toolbox"> 
