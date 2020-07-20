@@ -1,0 +1,11 @@
+Indicateur calculé;Facteur de lumière du jour [%]
+Nom du projet;30cm APRES CALCUL
+Localisation;PARIS_ ORLY (48.73N, 2.4E)
+Fuseau horaire;UTC+1:00
+Résultats;C:/Users/ldantoni/Desktop/30cm/résultats
+Niveau de détails;simple (environ 1 capteur par 4 m²)
+Unités des résultats;pourcentage
+Calculé;01 Juil 2020 15:19 avec DL-Light 11.0.8
+
+ID surface;Nom de la surface;Aire de la surface [m2];Valeur moyenne [%];Valeur médiane [%];0.0;0.5;0.7;1.0;1.2;1.5;1.8;2.5;3.0;5.0;7.0;Grille;Commentaires
+158;158;12.15;2.53;2.4;0.0;0.0;0.0;21.03;19.1;0.0;12.83;12.83;34.21;0.0;0.0;simple (environ 1 capteur par 4 m²);""

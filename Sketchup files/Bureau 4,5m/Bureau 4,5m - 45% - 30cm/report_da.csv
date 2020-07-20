@@ -1,0 +1,15 @@
+Indicateur calculé;Autonomie Lumineuse [%]
+Nom du projet;30cm APRES CALCUL
+Localisation;PARIS_ ORLY (48.73N, 2.4E)
+Fuseau horaire;UTC+1:00
+Données météo;FRA_Paris.Orly.epw
+Période;Année, du 1 Jan au 31 Déc inclus (pas 60min)
+Résultats;C:/Users/ldantoni/Desktop/30cm/résultats
+Niveau de détails;simple (environ 1 capteur par 4 m²)
+Unités des résultats;pourcentage
+Ecl;ecl >= 500
+Occupation;Bureau
+Calculé;01 Juil 2020 15:13 avec DL-Light 11.0.8
+
+ID surface;Nom de la surface;Aire de la surface [m2];0.0;5.0;10.0;30.0;40.0;45.0;50.0;55.0;60.0;65.0;100.0;Grille;Commentaires
+211;211;12.15;0.0;0.0;7.01;21.03;12.09;0.0;0.0;12.83;12.83;34.21;0.0;simple (environ 1 capteur par 4 m²);""
