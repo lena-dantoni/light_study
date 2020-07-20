@@ -2,9 +2,9 @@
 
 ### Description of the project
 
-This study shows the impact of natural light in a typical office thanks to different factors usually used in the building industry for certifications, labels, etc. The main factors studied here are daylight factor (DF) and daylight autonomy (DLA). I am using Rhino and Grasshopper for the daylight simulations.
+This study shows the impact of natural light in a typical office thanks to different factors usually used in the building industry for certifications, labels, etc. The main factors studied here are daylight factor (DF) and daylight autonomy (DLA). I am using Sketchup and Rhino for the daylight simulations.
 
-<img src="Rhino Files/photos/office exemple 1.PNG" height="200"/>
+<img src="Rhino Files/photos/office exemple 1.PNG" height="200"/> <img src="Sketchup files/Bureau 4,5m/Bureau 4,5m - 40% - 30cm/cas 1.PNG" height="200"/>
 
 ### Parameters
 
