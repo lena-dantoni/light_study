@@ -4,7 +4,7 @@
 
 This study shows the impact of natural light in a typical office thanks to different factors usually used in the building industry for certifications, labels, etc. The main factors studied here are daylight factor (DF) and daylight autonomy (DLA). I am using Sketchup and Rhino for the daylight simulations.
 
-<img src="Rhino Files/photos/office exemple 1.PNG" height="200"/> <img src="Sketchup files/Bureau 4,5m/Bureau 4,5m - 40% - 30cm/cas 1.PNG" height="200"/>
+<img src="Rhino Files/photos/office exemple 1.PNG" height="200"/> <img src="Sketchup%20files/Bureau%204%2C5m/Bureau%204%2C5m%20-%2040%25%20-%2030cm/cas%201.PNG" height="200"/>
 
 ### Parameters
 
@@ -33,10 +33,12 @@ This study shows the impact of natural light in a typical office thanks to diffe
 
 <img src="https://www.mav-npdc.com/wp-content/uploads/2019/03/rhinoceros-5-cad-software.jpg" height="75" title="Logo Rhino" alt="Logo Rhino"> <img src="https://seeklogo.com/images/G/grasshopper-3d-logo-B55A18550D-seeklogo.com.png" height="75" title="Logo Grasshopper" alt="Logo Grasshopper"> <img src="https://www.ladybug.tools/assets/img/logo.png" height="75" title="Logo Ladybug" alt="Logo Ladybug"> <img src="https://www.ladybug.tools/assets/img/honeybee-large.png" height="75" title="Logo Honeybee" alt="Logo Honeybee">
 
+<img src="https://www.dea.fr/wp-content/uploads/2017/01/logo-sketchup.jpg" height="75" title="Logo Sketchup" alt="Logo Sketchup"> <img src="https://deluminaelab.com/company/fr/assets/images/logo-deluminae-2018-148x145.png" height="75" title="Logo DL Light" alt="Logo DL Light">
+
 ---
 
 ### About me
-I am a 4th-year student at the engineer school Polytech Annecy-Chambéry in France studying energy, building and environment. I am interning at the company Arp-Astrance based in Paris.
+I am a 4th-year student at the engineer school Polytech Annecy-Chambéry in France studying energy, building and environment. I am interning at the company Arp-Astrance based in Paris. Thanks to this study I learned new softwares.
 
 <a href="http://www.linkedin.com/in/lenad-antoni">:bowtie:</a>
 
