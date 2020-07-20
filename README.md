@@ -35,7 +35,7 @@ Evolution of the average DLA as a function of the percentage of glazing :
 
 <img src="Rhino%20Files/photos/Evolution%20ALJ%20%25surface%20vitr%C3%A9e.gif" height="300"/>
 
-Visualization wit Design Explorer :
+Visualization with Design Explorer :
 
 <img src="Rhino%20Files/photos/visualisation%20design%20explorer.PNG" height="200"/>
 
