@@ -1,6 +1,6 @@
 ### Results visualization with design explorer
 
-Average DLA :
+Average DLA : http://tt-acm.github.io/DesignExplorer/?ID=BL_3fRzVPC
 
 Average DF :
 
