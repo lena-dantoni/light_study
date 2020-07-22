@@ -6,9 +6,9 @@ Average DF : http://tt-acm.github.io/DesignExplorer/?ID=BL_39fuWpk
 
 DF > 1.5
 
-%surface such as DLA > 30 :http://tt-acm.github.io/DesignExplorer/?ID=BL_3eL4FQM
+%surface such as DLA > 30 : http://tt-acm.github.io/DesignExplorer/?ID=BL_3eL4FQM
 
-%surface such as DLA > 40 :
+%surface such as DLA > 40 : http://tt-acm.github.io/DesignExplorer/?ID=BL_39gppPi
 
 %surface such as DLA > 50 :
 
