@@ -2,7 +2,7 @@
 
 Average DLA : http://tt-acm.github.io/DesignExplorer/?ID=BL_3fRzVPC
 
-Average DF :
+Average DF : http://tt-acm.github.io/DesignExplorer/?ID=BL_39fuWpk
 
 DF > 1.5
 
