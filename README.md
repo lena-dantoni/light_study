@@ -33,7 +33,7 @@ This study shows the impact of natural light in a typical office thanks to diffe
 
 Evolution of the average DLA as a function of the percentage of glazing : 
 
-<img src="Rhino%20Files/photos/Evolution%20ALJ%20%25surface%20vitr%C3%A9e.gif" height="300"/>
+<img src="Rhino%20Files/photos/Evolution%20ALJ%20Average.gif" height="300"/>
 
 Visualization with Design Explorer :
 
