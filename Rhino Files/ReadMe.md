@@ -10,7 +10,7 @@ DF > 1.5
 
 %surface such as DLA > 40 : http://tt-acm.github.io/DesignExplorer/?ID=BL_2ZPa2tP
 
-%surface such as DLA > 50 :
+%surface such as DLA > 50 : http://tt-acm.github.io/DesignExplorer/?ID=BL_2WQf33z
 
 %surface such as DLA > Average DLA :
 
