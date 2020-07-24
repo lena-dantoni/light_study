@@ -4,7 +4,7 @@ Average DLA : http://tt-acm.github.io/DesignExplorer/?ID=BL_3fRzVPC
 
 Average DF : http://tt-acm.github.io/DesignExplorer/?ID=BL_39fuWpk
 
-DF > 1.5
+%surface such as DF > 1.8 : http://tt-acm.github.io/DesignExplorer/?ID=BL_3fRzVPC
 
 %surface such as DLA > 30 : http://tt-acm.github.io/DesignExplorer/?ID=BL_3eL4FQM
 
@@ -12,7 +12,6 @@ DF > 1.5
 
 %surface such as DLA > 50 : http://tt-acm.github.io/DesignExplorer/?ID=BL_2WQf33z
 
-%surface such as DLA > Average DLA :
 
 ### Files used for the daylight simulation
 
