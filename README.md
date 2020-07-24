@@ -25,7 +25,7 @@ This study shows the impact of natural light in a typical office thanks to diffe
      - External sun protections = 0.3
      - Ceiling = 0.7
      - Floor = 0.3
-     - External floor = 0.3
+     - External floor = 0.2
 - Transmission coefficient :
      - Glazing = 0.7
 
